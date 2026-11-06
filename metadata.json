@@ -1,0 +1,6 @@
+{
+  "name": "PathCraft - AI Career Profile & Readiness Engine",
+  "description": "AI-powered personalized career content generator creating synchronized professional summaries, skill-gap reports, learning recommendations, and interview preparation suites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
